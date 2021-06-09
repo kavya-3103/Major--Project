@@ -20,3 +20,4 @@ elif score["pos"]!=0:
 elif score["neu"]!=0:
   st.title('PREDICTED OUTPUT IS : NEUTRAL')
   st.write(' AND THE SCORE IS:', score)
+  
